@@ -1,6 +1,6 @@
 # Smart-Cart-5
 
-[한국어](README-KR.md) · [Assembly viewer](<https://jtech-co.github.io/Smart-Cart-5/>) · [Wiring viewer](wiring.html)
+[한국어](README-KR.md) · [Assembly viewer](<https://jtech-co.github.io/Smart-Cart-5/>) · [Wiring viewer](<https://jtech-co.github.io/Smart-Cart-5/wiring.html>)
 
 A build-oriented integration model based on a purchased 900 × 600 mm folding platform cart, the supplied V8 component specification, and the original Motor-Bracket/SCMB geometry. Two upright lead-acid batteries sit below the deck, left and right. Rear MY1016Z drives use identical, rigidly rotated SCMB brackets; the controller is a Raspberry Pi 4B 8GB. A handle-mounted NC emergency stop and a separate reset button are included.
 
