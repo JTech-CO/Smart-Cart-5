@@ -1,0 +1,42 @@
+{
+  "engine": "OpenGL ES 3.2 Mesa 25.0.7-2",
+  "renderer": "llvmpipe (LLVM 19.1.7, 256 bits)",
+  "scope": "Standalone EGL pbuffer executing the unmodified VS/FS strings extracted from production js/renderer.js, same geometry.bin and material data. Not a native browser WebGL test.",
+  "vertex_shader_compile": true,
+  "fragment_shader_compile": true,
+  "program_link": true,
+  "depth_framebuffer_complete": true,
+  "views": [
+    {
+      "view": "overall",
+      "GL_error": 0,
+      "ground_enabled": true,
+      "nonuniform_pixels": 183262
+    },
+    {
+      "view": "underside",
+      "GL_error": 0,
+      "ground_enabled": false,
+      "nonuniform_pixels": 643981
+    },
+    {
+      "view": "power",
+      "GL_error": 0,
+      "ground_enabled": true,
+      "nonuniform_pixels": 1165773
+    },
+    {
+      "view": "controls",
+      "GL_error": 0,
+      "ground_enabled": true,
+      "nonuniform_pixels": 628960
+    },
+    {
+      "view": "drive",
+      "GL_error": 0,
+      "ground_enabled": true,
+      "nonuniform_pixels": 516446
+    }
+  ],
+  "browser_webgl_test": false
+}

@@ -1,0 +1,51 @@
+﻿id,from,to,kind,net,od_mm,bend_min_mm,length_mm,cut_length_proposal_mm,rating,notes
+W01,BAT1.P,F-BAT1.IN,power,BAT1+,4.4,17.6,119.2,140,TBD,
+W02,BAT2.P,F-BAT2.IN,power,BAT2+,4.4,17.6,119.2,140,TBD,
+W03,F-BAT1.OUT,BAT2.N,power,SERIES-LINK,4.4,17.6,652.8,760,TBD,Fused series jumper; remove and isolate both batteries before individual 12V charging.
+W04,BAT1.N,BUS-.0,power,GND,4.4,17.6,261.3,310,TBD,
+W05,F-BAT2.OUT,J-SERVICE.IN,power,PACK+,4.4,17.6,426.4,500,TBD,
+W06,J-SERVICE.OUT,K1.IN,power,ISOLATED+,4.4,17.6,194.3,230,TBD,Service connector shown open; no electrical continuity across its visible gap.
+W07,K1.OUT,BUS+.0,power,DRIVE+,4.4,17.6,143.0,170,TBD,
+W08,BUS+.1,F-L.IN,power,DRIVE+,4.4,17.6,288.3,340,TBD,
+W09,BUS+.2,F-R.IN,power,DRIVE+,4.4,17.6,328.3,380,TBD,
+W10,BUS+.3,F-5V.IN,power,DRIVE+,4.4,17.6,224.0,260,TBD,D5 intentionally cuts controller power with K1. Re-power requires manual hardware reset.
+W11,F-L.OUT,DRV-L.P0,power,F-L-OUT,4.4,17.6,359.2,420,TBD,
+W13,BUS-.1,DRV-L.P1,power,GND,4.4,17.6,422.2,490,TBD,
+WM-A-L,DRV-L.P2,MOTOR-L.A,power,MOTOR-L-A,4.4,17.6,426.5,500,TBD,
+WM-B-L,DRV-L.P3,MOTOR-L.B,power,MOTOR-L-B,4.4,17.6,418.5,490,TBD,
+W12,F-R.OUT,DRV-R.P0,power,F-R-OUT,4.4,17.6,317.2,370,TBD,
+W14,BUS-.2,DRV-R.P1,power,GND,4.4,17.6,610.2,710,TBD,
+WM-A-R,DRV-R.P2,MOTOR-R.A,power,MOTOR-R-A,4.4,17.6,466.5,540,TBD,
+WM-B-R,DRV-R.P3,MOTOR-R.B,power,MOTOR-R-B,4.4,17.6,484.5,560,TBD,
+A01,F-5V.OUT,DC5.IN+,aux,24V-AUX,2.6,10.4,271.1,320,TBD,
+A02,BUS-.3,DC5.IN-,aux,GND,2.6,10.4,277.1,320,TBD,
+A03,DC5.OUT+,5V+.0,aux,5V1,2.6,10.4,198.9,230,TBD,
+A04,DC5.OUT-,5V-.0,aux,5V1-GND,2.6,10.4,157.9,190,TBD,
+A05,5V+.1,PI4.5V,aux,5V1,2.6,10.4,1036.8,1200,TBD,
+A06,5V-.1,PI4.GND,aux,GND,2.6,10.4,1001.8,1160,TBD,
+A07,5V+.2,USB-HUB.5V,aux,5V1,2.6,10.4,927.2,1070,TBD,
+A08,5V-.2,USB-HUB.GND,aux,GND,2.6,10.4,892.2,1030,TBD,
+A09,USB-HUB.5V,LEVEL-IF.5V,aux,5V1,2.6,10.4,229.3,270,TBD,
+A10,USB-HUB.GND,LEVEL-IF.GND,aux,GND,2.6,10.4,238.6,280,TBD,
+USB-HOST,PI4.USB,USB-HUB.HOST,usb,USB-HOST,4,16.0,282.2,330,TBD,Shielded USB upstream; self-powered hub must not backfeed Pi.
+USB-ESP,USB-HUB.3,ESP32.USB,usb,USB-ESP,3.6,14.4,265.2,310,TBD,
+USB-UWB-L,USB-HUB.0,UWB-L.USB,usb,USB-UWB-L,3.6,14.4,1076.1,1240,TBD,Shielded USB harness. Actual cable exit and strain-relief geometry M.
+USB-UWB-R,USB-HUB.1,UWB-R.USB,usb,USB-UWB-R,3.6,14.4,1348.9,1560,TBD,Shielded USB harness. Actual cable exit and strain-relief geometry M.
+USB-LIDAR,USB-HUB.2,LIDAR.USB,usb,USB-LIDAR,3.6,14.4,1125.2,1300,TBD,Shielded USB harness. Actual cable exit and strain-relief geometry M.
+SIG-MCU,ESP32.CTRL,LEVEL-IF.IN,signal,SIG-MCU,3.4,13.6,159.5,190,TBD,Bundled logic conductors; 18AWG is not assumed for individual GPIO wires.
+SIG-I2C,ESP32.I2C,INA226.I2C,signal,SIG-I2C,3.2,12.8,99.5,120,TBD,
+SIG-L,LEVEL-IF.L,DRV-L.CTRL,signal,SIG-L,3.5,14.0,435.0,510,TBD,"PWM/EN/GND harness; actual IBT-2 terminal order, level shifter and default-disabled state require bench verification."
+SIG-R,LEVEL-IF.R,DRV-R.CTRL,signal,SIG-R,3.5,13.999999999999998,586.5,680,TBD,"PWM/EN/GND harness; actual IBT-2 terminal order, level shifter and default-disabled state require bench verification."
+C01,J-SERVICE.OUT,F-COIL.IN,control,C01,2.6,10.4,277.8,320,TBD,Hardwired upstream coil feed. Do not depend on booted software to latch K1.
+C02,F-COIL.OUT,CTRL-TB.S0,control,C02,2.6,10.4,753.1,870,TBD,
+HANDLE-0,CTRL-TB.S0,E-STOP.1,control,HANDLE-0,2.6,10.4,1278.3,1480,TBD,External clamped cable + hinge service loop. Full folding kinematics not validated; only deployed pose supplied.
+HANDLE-1,CTRL-TB.S1,E-STOP.2,control,HANDLE-1,2.6,10.4,1292.8,1490,TBD,External clamped cable + hinge service loop. Full folding kinematics not validated; only deployed pose supplied.
+HANDLE-2,CTRL-TB.S2,RESET.2,control,HANDLE-2,2.6,10.4,1236.3,1430,TBD,External clamped cable + hinge service loop. Full folding kinematics not validated; only deployed pose supplied.
+C-HANDLE,E-STOP.2,RESET.1,control,C-HANDLE,2.6,10.4,127.6,150,TBD,
+C03,CTRL-TB.S1,K1.AUX1,control,C03,2.6,10.4,577.0,670,TBD,
+C04,CTRL-TB.S2,K1.A1,control,C04,2.6,10.4,420.8,490,TBD,
+C05,K1.AUX2,K1.A1,control,C05,2.6,10.4,295.8,350,TBD,NO auxiliary contact in parallel with momentary RESET. Suppressor across coil must be selected for drop-out requirements.
+C06,K1.A2,BUS-.3,control,C06,2.6,10.4,387.9,450,TBD,
+V01,BUS+.3,F-SENSE.IN,sense,V01,1.7,6.8,235.2,280,TBD,
+V02,F-SENSE.OUT,INA226.VBUS,sense,V02,1.7,6.8,799.8,920,TBD,VBUS access must be confirmed on the purchased board. R010 current shunt remains OUT of the motor path.
+V03,BUS-.3,INA226.GND,sense,V03,1.7,6.8,862.1,1000,TBD,VBUS access must be confirmed on the purchased board. R010 current shunt remains OUT of the motor path.

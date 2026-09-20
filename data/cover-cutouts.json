@@ -1,0 +1,77 @@
+[
+  {
+    "cover": "CONTROL-COVER",
+    "wire": "HANDLE-0",
+    "center_mm": [
+      -270.79256214121426,
+      -190.0,
+      331.27272727769537
+    ],
+    "size_mm": [
+      12.124299279965214,
+      7.0,
+      9.188080546981553
+    ],
+    "status": "D: proposed deburred clearance opening"
+  },
+  {
+    "cover": "CONTROL-COVER",
+    "wire": "HANDLE-1",
+    "center_mm": [
+      -261.76342203640047,
+      -190.0,
+      331.2403124723039
+    ],
+    "size_mm": [
+      12.066019070337632,
+      7.0,
+      9.252910157764404
+    ],
+    "status": "D: proposed deburred clearance opening"
+  },
+  {
+    "cover": "CONTROL-COVER",
+    "wire": "HANDLE-2",
+    "center_mm": [
+      -252.76342203640053,
+      -190.0,
+      331.24031247230425
+    ],
+    "size_mm": [
+      12.066019070337632,
+      7.0,
+      9.252910157764575
+    ],
+    "status": "D: proposed deburred clearance opening"
+  },
+  {
+    "cover": "CONTROL-COVER",
+    "wire": "C03",
+    "center_mm": [
+      -237.62611003226198,
+      -190.00000000000273,
+      344.99258824446565
+    ],
+    "size_mm": [
+      39.8718790260838,
+      7.0,
+      24.25164158797321
+    ],
+    "status": "D: proposed deburred clearance opening"
+  },
+  {
+    "cover": "CONTROL-COVER",
+    "wire": "C04",
+    "center_mm": [
+      -231.67806348323163,
+      -189.89216691346056,
+      343.045402797909
+    ],
+    "size_mm": [
+      36.10469823602034,
+      7.0,
+      27.90088028660665
+    ],
+    "status": "D: proposed deburred clearance opening"
+  }
+]

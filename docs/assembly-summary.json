@@ -1,0 +1,31 @@
+{
+  "scope": "Conservative BREP display bounding boxes, including deployed handle, sensors and modeled wires, excluding off-cart accessories. Not manufacturing dimensions.",
+  "units": "mm",
+  "bbox_min": [
+    -523.0531279535576,
+    -340.20000010000007,
+    -0.28973394008597525
+  ],
+  "bbox_max": [
+    510.01512491605206,
+    340.20000010000007,
+    998.0615165620142
+  ],
+  "size": [
+    1033.0682528696098,
+    680.4000002000001,
+    998.3512505021001
+  ],
+  "counts": {
+    "solid_parts": 782,
+    "components": 116,
+    "connections": 50,
+    "render_batches": 209,
+    "triangles": 555512
+  },
+  "battery_tray_nominal_bottom": 79,
+  "deck_top_design": 310,
+  "body_and_wheel_values_measured": false,
+  "total_operating_mass_kg": null,
+  "maximum_payload_kg": null
+}

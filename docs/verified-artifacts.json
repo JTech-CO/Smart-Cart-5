@@ -1,0 +1,16 @@
+{
+  "date": "2026-09-21",
+  "sha256": {
+    "data/geometry.bin": "6558ae16ebd587b6a2a21545620aa567dc1411843ffdd319be58aa2f0e916c2b",
+    "data/assembly.json": "db99764b7069928c7548d9ae27b924b34a5d4380680369a1fddef49339a279eb",
+    "cad/Smart-Cart-5.step": "4a8f608a7a016550e32360b5b00af51389bbab273dc457200fc407a73d82ff61",
+    "cad/Smart-Cart-5.FCStd": "ee6b7a85258e092fabee59e540edafbb45f27ce7d923fe3114ad88314915014b",
+    "js/renderer.js": "f8f13e3448f21f3887f339ecf4278d80d88e7a04eea046e70f56ff54cea725cc",
+    "js/cpu-renderer.js": "c691a865c270e08c3f9b8fe4b11e4090002d1b7848ed9804f35e476a89ba9873",
+    "js/app.js": "8ddc6560cd4eb8d051e39a28f61cc4cb4fd073bb5006fd1d7b60238e04393e75",
+    "js/wiring.js": "14092132dcc149d591b27afe2f4ac7522ac69a811887f8629a42c49918e69c20",
+    "tools/build_model.py": "3842d22a01cc2ceb72aa4171e8519390f34c25e5d7ed4faf6b5e4f4fe808cfb2",
+    "tools/bracket_geometry.py": "8344eb5218cd42d74b3ca6d2364b1ea788ef4941c8cd13b721e08b5d832e3293"
+  },
+  "scope": "Hashes of the reviewed output revision. Individual test scopes and exclusions are listed in QA-KR.md."
+}

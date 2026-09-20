@@ -1,0 +1,1268 @@
+{
+  "file": "Smart-Cart-5.FCStd",
+  "zip_crc": true,
+  "xml_parse": true,
+  "forward_only_app_payload_order": true,
+  "feature_count": 209,
+  "d4_or_prototype_legacy_objects": 0,
+  "all_brep_roundtrips_valid": true,
+  "checks": [
+    {
+      "name": "D5_000_CART_DECK_paint",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.9387702938819498e-16
+    },
+    {
+      "name": "D5_001_DECK_MAT_deckmat",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 2.4268684245818513e-16
+    },
+    {
+      "name": "D5_002_FRAME_LONG_paint",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 6.202001912820558e-16
+    },
+    {
+      "name": "D5_003_FRAME_END_paint",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_004_REAR_SPREADER_silver",
+      "valid": true,
+      "solids": 5,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_005_REAR_SPREADER_steel",
+      "valid": true,
+      "solids": 8,
+      "relative_volume_error": 1.1255176244023183e-16
+    },
+    {
+      "name": "D5_006_FRONT_SPREADER_silver",
+      "valid": true,
+      "solids": 5,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_007_FRONT_SPREADER_steel",
+      "valid": true,
+      "solids": 8,
+      "relative_volume_error": 1.1255176244023178e-16
+    },
+    {
+      "name": "D5_008_GLAND_black",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 2.9266423617228713e-16
+    },
+    {
+      "name": "D5_009_FRONT_GLAND_black",
+      "valid": true,
+      "solids": 3,
+      "relative_volume_error": 1.0317831482248938e-15
+    },
+    {
+      "name": "D5_010_BATTERY_CROSS_silver",
+      "valid": true,
+      "solids": 6,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_011_BATTERY_CROSS_steel",
+      "valid": true,
+      "solids": 12,
+      "relative_volume_error": 1.0094201213338225e-15
+    },
+    {
+      "name": "D5_012_CASTER_RISER__1_silver",
+      "valid": true,
+      "solids": 8,
+      "relative_volume_error": 1.795488153270996e-16
+    },
+    {
+      "name": "D5_013_CASTER_RISER__1_steel",
+      "valid": true,
+      "solids": 8,
+      "relative_volume_error": 3.9575633718715834e-16
+    },
+    {
+      "name": "D5_014_CASTER__1_steel",
+      "valid": true,
+      "solids": 6,
+      "relative_volume_error": 4.835994200866274e-16
+    },
+    {
+      "name": "D5_015_CASTER__1_rubber",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 9.918124108772299e-16
+    },
+    {
+      "name": "D5_016_CASTER__1_yellow",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 8.247896154019985e-16
+    },
+    {
+      "name": "D5_017_CASTER__1_silver",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.4903633797531105e-16
+    },
+    {
+      "name": "D5_018_CASTER_RISER_1_silver",
+      "valid": true,
+      "solids": 8,
+      "relative_volume_error": 1.795488153270996e-16
+    },
+    {
+      "name": "D5_019_CASTER_RISER_1_steel",
+      "valid": true,
+      "solids": 8,
+      "relative_volume_error": 3.9575633718715834e-16
+    },
+    {
+      "name": "D5_020_CASTER_1_steel",
+      "valid": true,
+      "solids": 6,
+      "relative_volume_error": 4.835994200866274e-16
+    },
+    {
+      "name": "D5_021_CASTER_1_rubber",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 9.918124108772299e-16
+    },
+    {
+      "name": "D5_022_CASTER_1_yellow",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 8.247896154019985e-16
+    },
+    {
+      "name": "D5_023_CASTER_1_silver",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.4903633797531105e-16
+    },
+    {
+      "name": "D5_024_SCMB_R_silver",
+      "valid": true,
+      "solids": 5,
+      "relative_volume_error": 4.3355233297658985e-15
+    },
+    {
+      "name": "D5_025_SCMB_R_steel",
+      "valid": true,
+      "solids": 12,
+      "relative_volume_error": 4.978300659172137e-16
+    },
+    {
+      "name": "D5_026_DRIVE_RISER__1_silver",
+      "valid": true,
+      "solids": 8,
+      "relative_volume_error": 3.5587110679622193e-16
+    },
+    {
+      "name": "D5_027_DRIVE_RISER__1_steel",
+      "valid": true,
+      "solids": 8,
+      "relative_volume_error": 3.407987120265506e-16
+    },
+    {
+      "name": "D5_028_MOTOR_R_silver",
+      "valid": true,
+      "solids": 8,
+      "relative_volume_error": 2.508225436211955e-16
+    },
+    {
+      "name": "D5_029_MOTOR_R_black",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 8.298939954573917e-16
+    },
+    {
+      "name": "D5_030_MOTOR_R_steel",
+      "valid": true,
+      "solids": 14,
+      "relative_volume_error": 1.6318931660699135e-15
+    },
+    {
+      "name": "D5_031_MOTOR_R_gold",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_032_WHEEL_R_rubber",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 6.632564206052056e-16
+    },
+    {
+      "name": "D5_033_WHEEL_R_silver",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_034_WHEEL_R_steel",
+      "valid": true,
+      "solids": 3,
+      "relative_volume_error": 6.787814909318598e-16
+    },
+    {
+      "name": "D5_035_SCMB_L_silver",
+      "valid": true,
+      "solids": 5,
+      "relative_volume_error": 4.08049254568462e-15
+    },
+    {
+      "name": "D5_036_SCMB_L_steel",
+      "valid": true,
+      "solids": 12,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_037_DRIVE_RISER_1_silver",
+      "valid": true,
+      "solids": 8,
+      "relative_volume_error": 3.558711067962219e-16
+    },
+    {
+      "name": "D5_038_DRIVE_RISER_1_steel",
+      "valid": true,
+      "solids": 8,
+      "relative_volume_error": 1.7039935601327528e-16
+    },
+    {
+      "name": "D5_039_MOTOR_L_silver",
+      "valid": true,
+      "solids": 8,
+      "relative_volume_error": 1.2541127181008044e-16
+    },
+    {
+      "name": "D5_040_MOTOR_L_black",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 9.958727945488702e-16
+    },
+    {
+      "name": "D5_041_MOTOR_L_steel",
+      "valid": true,
+      "solids": 14,
+      "relative_volume_error": 1.903875360414898e-15
+    },
+    {
+      "name": "D5_042_MOTOR_L_gold",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_043_WHEEL_L_rubber",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 6.632564206052056e-16
+    },
+    {
+      "name": "D5_044_WHEEL_L_silver",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 4.0029238373716756e-16
+    },
+    {
+      "name": "D5_045_WHEEL_L_steel",
+      "valid": true,
+      "solids": 3,
+      "relative_volume_error": 8.484768636648245e-16
+    },
+    {
+      "name": "D5_046_TRAY_BAT1_silver",
+      "valid": true,
+      "solids": 9,
+      "relative_volume_error": 5.604913617945447e-16
+    },
+    {
+      "name": "D5_047_TRAY_BAT1_rubber",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 2.348310608397405e-16
+    },
+    {
+      "name": "D5_048_TRAY_BAT1_steel",
+      "valid": true,
+      "solids": 12,
+      "relative_volume_error": 8.120006029299219e-16
+    },
+    {
+      "name": "D5_049_BAT1_battery",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_050_BAT1_black",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_051_BAT1_steel",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 6.447673064403556e-16
+    },
+    {
+      "name": "D5_052_BAT1_red",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 4.405830705471559e-16
+    },
+    {
+      "name": "D5_053_TRAY_BAT1_paint",
+      "valid": true,
+      "solids": 6,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_054_F_BAT1_silver",
+      "valid": true,
+      "solids": 3,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_055_F_BAT1_black",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.218480280657862e-16
+    },
+    {
+      "name": "D5_056_F_BAT1_steel",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 7.067899292141151e-16
+    },
+    {
+      "name": "D5_057_TRAY_BAT2_silver",
+      "valid": true,
+      "solids": 9,
+      "relative_volume_error": 5.604913617945447e-16
+    },
+    {
+      "name": "D5_058_TRAY_BAT2_rubber",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 2.348310608397405e-16
+    },
+    {
+      "name": "D5_059_TRAY_BAT2_steel",
+      "valid": true,
+      "solids": 12,
+      "relative_volume_error": 8.120006029299221e-16
+    },
+    {
+      "name": "D5_060_BAT2_battery",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_061_BAT2_black",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_062_BAT2_steel",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 6.447673064403556e-16
+    },
+    {
+      "name": "D5_063_BAT2_red",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 4.405830705471559e-16
+    },
+    {
+      "name": "D5_064_TRAY_BAT2_paint",
+      "valid": true,
+      "solids": 6,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_065_F_BAT2_silver",
+      "valid": true,
+      "solids": 3,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_066_F_BAT2_black",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.218480280657862e-16
+    },
+    {
+      "name": "D5_067_F_BAT2_steel",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 7.067899292141151e-16
+    },
+    {
+      "name": "D5_068_POWER_TRAY_silver",
+      "valid": true,
+      "solids": 9,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_069_POWER_TRAY_steel",
+      "valid": true,
+      "solids": 8,
+      "relative_volume_error": 4.2624897138819114e-16
+    },
+    {
+      "name": "D5_070_POWER_GUARD_clear",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 2.041330380510804e-15
+    },
+    {
+      "name": "D5_071_DRV_R_gold",
+      "valid": true,
+      "solids": 16,
+      "relative_volume_error": 9.970092363740258e-16
+    },
+    {
+      "name": "D5_072_DRV_R_bluepcb",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 2.106151415266539e-16
+    },
+    {
+      "name": "D5_073_DRV_R_black",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.5817617055224458e-16
+    },
+    {
+      "name": "D5_074_DRV_R_silver",
+      "valid": true,
+      "solids": 24,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_075_DRV_R_green",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.198284900778157e-16
+    },
+    {
+      "name": "D5_076_DRV_R_steel",
+      "valid": true,
+      "solids": 4,
+      "relative_volume_error": 7.237528875152533e-16
+    },
+    {
+      "name": "D5_077_DRV_L_gold",
+      "valid": true,
+      "solids": 16,
+      "relative_volume_error": 9.970092363740262e-16
+    },
+    {
+      "name": "D5_078_DRV_L_bluepcb",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 2.106151415266539e-16
+    },
+    {
+      "name": "D5_079_DRV_L_black",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.5817617055224458e-16
+    },
+    {
+      "name": "D5_080_DRV_L_silver",
+      "valid": true,
+      "solids": 24,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_081_DRV_L_green",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_082_DRV_L_steel",
+      "valid": true,
+      "solids": 4,
+      "relative_volume_error": 7.237528875152533e-16
+    },
+    {
+      "name": "D5_083_K1_black",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 2.804627019481693e-16
+    },
+    {
+      "name": "D5_084_K1_gold",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 7.237528875152535e-16
+    },
+    {
+      "name": "D5_085_K1_steel",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 1.0280580788568935e-15
+    },
+    {
+      "name": "D5_086_J_SERVICE_red",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_087_BUSPOS_red",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_088_BUSPOS_gold",
+      "valid": true,
+      "solids": 4,
+      "relative_volume_error": 1.0052123437711856e-15
+    },
+    {
+      "name": "D5_089_BUS__black",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_090_BUS__gold",
+      "valid": true,
+      "solids": 4,
+      "relative_volume_error": 1.0052123437711856e-15
+    },
+    {
+      "name": "D5_091_F_L_black",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.426748809320341e-16
+    },
+    {
+      "name": "D5_092_F_L_steel",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 6.691502288417648e-16
+    },
+    {
+      "name": "D5_093_F_R_black",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.426748809320341e-16
+    },
+    {
+      "name": "D5_094_F_R_steel",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 6.691502288417648e-16
+    },
+    {
+      "name": "D5_095_F_5V_black",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.426748809320341e-16
+    },
+    {
+      "name": "D5_096_F_5V_steel",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 6.69150228841765e-16
+    },
+    {
+      "name": "D5_097_F_COIL_black",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.426748809320341e-16
+    },
+    {
+      "name": "D5_098_F_COIL_steel",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 6.69150228841765e-16
+    },
+    {
+      "name": "D5_099_F_SENSE_black",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.426748809320341e-16
+    },
+    {
+      "name": "D5_100_F_SENSE_steel",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 6.691502288417649e-16
+    },
+    {
+      "name": "D5_101_DC5_silver",
+      "valid": true,
+      "solids": 11,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_102_5VPOS_red",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.1794828579221173e-16
+    },
+    {
+      "name": "D5_103_5V__black",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.1794828579221175e-16
+    },
+    {
+      "name": "D5_104_CONTROL_BASE_silver",
+      "valid": true,
+      "solids": 5,
+      "relative_volume_error": 1.771685880834026e-16
+    },
+    {
+      "name": "D5_105_CONTROL_BASE_gold",
+      "valid": true,
+      "solids": 4,
+      "relative_volume_error": 5.654319433712919e-16
+    },
+    {
+      "name": "D5_106_CONTROL_BASE_steel",
+      "valid": true,
+      "solids": 8,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_107_CONTROL_COVER_clear",
+      "valid": true,
+      "solids": 5,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_108_PI4_pcb",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.1959137232750946e-16
+    },
+    {
+      "name": "D5_109_PI4_black",
+      "valid": true,
+      "solids": 24,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_110_PI4_silver",
+      "valid": true,
+      "solids": 14,
+      "relative_volume_error": 5.492754605443007e-16
+    },
+    {
+      "name": "D5_111_PI4_steel",
+      "valid": true,
+      "solids": 4,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_112_PI4_blue",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_113_USB_HUB_black",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 2.01453806180568e-16
+    },
+    {
+      "name": "D5_114_USB_HUB_steel",
+      "valid": true,
+      "solids": 4,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_115_ESP32_pcb",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 3.755185157369139e-16
+    },
+    {
+      "name": "D5_116_ESP32_black",
+      "valid": true,
+      "solids": 3,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_117_ESP32_silver",
+      "valid": true,
+      "solids": 14,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_118_ESP32_steel",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 2.8031328171548406e-16
+    },
+    {
+      "name": "D5_119_ESP32_gold",
+      "valid": true,
+      "solids": 39,
+      "relative_volume_error": 5.175394774486993e-16
+    },
+    {
+      "name": "D5_120_INA226_bluepcb",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.3215074324576798e-16
+    },
+    {
+      "name": "D5_121_INA226_black",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.9879884432827735e-16
+    },
+    {
+      "name": "D5_122_INA226_silver",
+      "valid": true,
+      "solids": 14,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_123_INA226_gold",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 7.539092578283886e-16
+    },
+    {
+      "name": "D5_124_LEVEL_IF_pcb",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 4.243065762184194e-16
+    },
+    {
+      "name": "D5_125_LEVEL_IF_black",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 2.1258282338394646e-16
+    },
+    {
+      "name": "D5_126_LEVEL_IF_silver",
+      "valid": true,
+      "solids": 14,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_127_CTRL_TB_green",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_128_CTRL_TB_steel",
+      "valid": true,
+      "solids": 5,
+      "relative_volume_error": 1.0132540425213552e-15
+    },
+    {
+      "name": "D5_129_CTRL_TB_gold",
+      "valid": true,
+      "solids": 5,
+      "relative_volume_error": 6.473639423213356e-16
+    },
+    {
+      "name": "D5_130_HANDLE_HINGE_steel",
+      "valid": true,
+      "solids": 8,
+      "relative_volume_error": 2.4710750668767264e-16
+    },
+    {
+      "name": "D5_131_HANDLE_HINGE_silver",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 1.7932052185189312e-14
+    },
+    {
+      "name": "D5_132_HANDLE_paint",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 2.4178904982200496e-15
+    },
+    {
+      "name": "D5_133_HANDLE_GRIP_rubber",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.2161359168498203e-15
+    },
+    {
+      "name": "D5_134_HANDLE_BRACE_paint",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_135_E_STOP_yellow",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.3352919237464213e-16
+    },
+    {
+      "name": "D5_136_E_STOP_black",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 8.205815051193352e-16
+    },
+    {
+      "name": "D5_137_E_STOP_red",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 7.850878779826482e-16
+    },
+    {
+      "name": "D5_138_E_STOP_steel",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 1.2349045992274993e-16
+    },
+    {
+      "name": "D5_139_RESET_black",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.5878816670899351e-16
+    },
+    {
+      "name": "D5_140_RESET_green",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 7.818318229331437e-16
+    },
+    {
+      "name": "D5_141_UWB_R_black",
+      "valid": true,
+      "solids": 3,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_142_UWB_R_pcb",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 3.5717430740079143e-16
+    },
+    {
+      "name": "D5_143_UWB_R_gold",
+      "valid": true,
+      "solids": 10,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_144_UWB_R_steel",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 1.9230329151997622e-16
+    },
+    {
+      "name": "D5_145_UWB_L_black",
+      "valid": true,
+      "solids": 3,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_146_UWB_L_pcb",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 4.762324098677219e-16
+    },
+    {
+      "name": "D5_147_UWB_L_gold",
+      "valid": true,
+      "solids": 10,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_148_UWB_L_steel",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 1.9230329151997622e-16
+    },
+    {
+      "name": "D5_149_LIDAR_MOUNT_silver",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 2.0018902456682921e-16
+    },
+    {
+      "name": "D5_150_LIDAR_black",
+      "valid": true,
+      "solids": 7,
+      "relative_volume_error": 6.107663121766204e-16
+    },
+    {
+      "name": "D5_151_LIDAR_sensorwindow",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 9.725247077603517e-16
+    },
+    {
+      "name": "D5_152_BU03_TAG_pcb",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 2.912996646452598e-16
+    },
+    {
+      "name": "D5_153_BU03_TAG_black",
+      "valid": true,
+      "solids": 2,
+      "relative_volume_error": 4.547686686557578e-16
+    },
+    {
+      "name": "D5_154_BU03_TAG_silver",
+      "valid": true,
+      "solids": 14,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_155_CHARGER_1_black",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 2.4359273675325187e-16
+    },
+    {
+      "name": "D5_156_CHARGER_2_black",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 3.653891051298779e-16
+    },
+    {
+      "name": "D5_157_W01_red",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.2543341051211016e-16
+    },
+    {
+      "name": "D5_158_W02_red",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.2543341051211016e-16
+    },
+    {
+      "name": "D5_159_W03_red",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 2.3824491664005516e-15
+    },
+    {
+      "name": "D5_160_W04_wireblack",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 3.4331561627195304e-16
+    },
+    {
+      "name": "D5_161_W05_red",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.4027121399056438e-16
+    },
+    {
+      "name": "D5_162_W06_red",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 4.155094215580611e-15
+    },
+    {
+      "name": "D5_163_W07_red",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 6.276362504996042e-16
+    },
+    {
+      "name": "D5_164_W08_red",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 8.505245321439844e-15
+    },
+    {
+      "name": "D5_165_W09_red",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.821728823178273e-15
+    },
+    {
+      "name": "D5_166_W10_red",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.0682926377591568e-15
+    },
+    {
+      "name": "D5_167_W11_red",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.4987541259815952e-15
+    },
+    {
+      "name": "D5_168_W13_wireblack",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.5584604692954429e-15
+    },
+    {
+      "name": "D5_169_WM_A_L_red",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 5.610165499828875e-16
+    },
+    {
+      "name": "D5_170_WM_B_L_wireblack",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 5.2886228505329905e-15
+    },
+    {
+      "name": "D5_171_W12_red",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.1314746641276517e-15
+    },
+    {
+      "name": "D5_172_W14_wireblack",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 2.156585896235781e-15
+    },
+    {
+      "name": "D5_173_WM_A_R_red",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 2.3080914962395006e-15
+    },
+    {
+      "name": "D5_174_WM_B_R_wireblack",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 2.0741853318037323e-14
+    },
+    {
+      "name": "D5_175_A01_red",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 8.686893361841449e-15
+    },
+    {
+      "name": "D5_176_A02_wireblack",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 6.180965919100169e-16
+    },
+    {
+      "name": "D5_177_A03_red",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 8.612974056595553e-16
+    },
+    {
+      "name": "D5_178_A04_wireblack",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 5.425645064251497e-16
+    },
+    {
+      "name": "D5_179_A05_red",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 6.608587937706877e-15
+    },
+    {
+      "name": "D5_180_A06_wireblack",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 7.523408155609453e-15
+    },
+    {
+      "name": "D5_181_A07_red",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 3.1408345872692264e-15
+    },
+    {
+      "name": "D5_182_A08_wireblack",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 2.6880393209942845e-15
+    },
+    {
+      "name": "D5_183_A09_red",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.868031934232763e-16
+    },
+    {
+      "name": "D5_184_A10_wireblack",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.2561498962778128e-15
+    },
+    {
+      "name": "D5_185_USB_HOST_wireblack",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.3594426207703703e-14
+    },
+    {
+      "name": "D5_186_USB_ESP_wireblack",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.6846994946759241e-16
+    },
+    {
+      "name": "D5_187_USB_UWB_L_wireblack",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 7.970999408039983e-15
+    },
+    {
+      "name": "D5_188_USB_UWB_R_wireblack",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.2453590436163473e-14
+    },
+    {
+      "name": "D5_189_USB_LIDAR_wireblack",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 6.51167653398027e-15
+    },
+    {
+      "name": "D5_190_SIG_MCU_blue",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.8846637749196023e-15
+    },
+    {
+      "name": "D5_191_SIG_I2C_purple",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 4.12100288959185e-15
+    },
+    {
+      "name": "D5_192_SIG_L_blue",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.1735332794855234e-14
+    },
+    {
+      "name": "D5_193_SIG_R_blue",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.2894092585580488e-15
+    },
+    {
+      "name": "D5_194_C01_yellow",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 2.0044175002746605e-15
+    },
+    {
+      "name": "D5_195_C02_yellow",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.1372596158195333e-15
+    },
+    {
+      "name": "D5_196_HANDLE_0_yellow",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.4740456193162753e-15
+    },
+    {
+      "name": "D5_197_HANDLE_1_yellow",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 7.685049412573034e-15
+    },
+    {
+      "name": "D5_198_HANDLE_2_blue",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.5657799123168562e-14
+    },
+    {
+      "name": "D5_199_C_HANDLE_yellow",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 5.033823228520672e-16
+    },
+    {
+      "name": "D5_200_C03_yellow",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 7.866862786633762e-15
+    },
+    {
+      "name": "D5_201_C04_yellow",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 0.0
+    },
+    {
+      "name": "D5_202_C05_yellow",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 8.685977706289966e-16
+    },
+    {
+      "name": "D5_203_C06_wireblack",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.2806508569256212e-14
+    },
+    {
+      "name": "D5_204_V01_purple",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 3.4066180027773636e-15
+    },
+    {
+      "name": "D5_205_V02_purple",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.2899828682456338e-14
+    },
+    {
+      "name": "D5_206_V03_wireblack",
+      "valid": true,
+      "solids": 1,
+      "relative_volume_error": 1.754601115354332e-14
+    },
+    {
+      "name": "D5_207_CABLE_CLIPS_black",
+      "valid": true,
+      "solids": 6,
+      "relative_volume_error": 3.120414737532848e-15
+    },
+    {
+      "name": "D5_208_HANDLE_CLIPS_black",
+      "valid": true,
+      "solids": 3,
+      "relative_volume_error": 1.5259151925073033e-15
+    }
+  ],
+  "native_freecad_open_test": false,
+  "native_solidworks_open_test": false,
+  "editable_scope": "Part::Feature solid snapshots and source regeneration. No native Sketcher/PartDesign feature history."
+}

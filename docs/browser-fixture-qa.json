@@ -1,0 +1,227 @@
+{
+  "scope": "Actual shipped HTML/CSS/JS with set_content and fixture-injected local JSON/mesh; pointer/keyboard, rendering, selection and Blob downloads. Not a native HTTP/file navigation test.",
+  "browser": "144.0.7559.96",
+  "renderer": "Canvas CPU",
+  "browser_webgl2_test": false,
+  "native_http_navigation_test": false,
+  "native_cad_gui_test": false,
+  "checks": [
+    {
+      "name": "Actual production scripts initialize",
+      "passed": true,
+      "detail": {
+        "backend": "Canvas CPU",
+        "reason": "WebGL 2를 사용할 수 없습니다. Chromium/Edge의 하드웨어 가속을 확인하세요."
+      }
+    },
+    {
+      "name": "Default view applied",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Triangle metadata and 50 connections loaded",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Preset underside",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Underside disables ground",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Preset drive",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Preset power",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Preset controls",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Preset front",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Preset top",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Preset overall",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Pointer orbit below horizon removes floor",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Pointer orbit above horizon restores floor",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Keyboard rotation",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Search filters component tree",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Pi inspector and grade",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Selection focus changes distance",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Layer toggle deck",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Layer toggle covers",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Layer toggle wires",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Layer toggle floor",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Layer toggle labels",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Layer toggle accessories",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Pixel picking selects a visible mesh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "PNG Blob downloaded with PNG signature",
+      "passed": true,
+      "detail": {
+        "bytes": 128469
+      }
+    },
+    {
+      "name": "Mobile page has no horizontal overflow",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Mobile component drawer opens",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Mobile part selection closes drawer",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Mobile overall frame includes wheel and handle limits",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Wiring table has 50 connections",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Physical drawing contains 50 routed polylines",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Wiring category filter",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Side projection label",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Wire inspector has endpoints",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Wiring tab physical",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Wiring tab schematic",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Wiring tab table",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Connection search",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Table row opens selected physical route",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "SVG Blob download",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Mobile wiring has no page overflow",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "No runtime page errors",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "passed": true,
+  "errors": []
+}

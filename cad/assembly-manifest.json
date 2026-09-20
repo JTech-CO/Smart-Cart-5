@@ -1,0 +1,2092 @@
+[
+  {
+    "name": "D5_000_CART_DECK_paint",
+    "file": "brep/D5_000_CART_DECK_paint.brp",
+    "ref": "CART-DECK",
+    "material": "paint",
+    "category": "frame",
+    "volume_mm3": 9607353.460638344,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_001_DECK_MAT_deckmat",
+    "file": "brep/D5_001_DECK_MAT_deckmat.brp",
+    "ref": "DECK-MAT",
+    "material": "deckmat",
+    "category": "frame",
+    "volume_mm3": 959387.1727676637,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_002_FRAME_LONG_paint",
+    "file": "brep/D5_002_FRAME_LONG_paint.brp",
+    "ref": "FRAME-LONG",
+    "material": "paint",
+    "category": "frame",
+    "volume_mm3": 375412.0797231139,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_003_FRAME_END_paint",
+    "file": "brep/D5_003_FRAME_END_paint.brp",
+    "ref": "FRAME-END",
+    "material": "paint",
+    "category": "frame",
+    "volume_mm3": 237440.00000000093,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_004_REAR_SPREADER_silver",
+    "file": "brep/D5_004_REAR_SPREADER_silver.brp",
+    "ref": "REAR-SPREADER",
+    "material": "silver",
+    "category": "adapters",
+    "volume_mm3": 633947.149932497,
+    "solid_count": 5,
+    "valid": true
+  },
+  {
+    "name": "D5_005_REAR_SPREADER_steel",
+    "file": "brep/D5_005_REAR_SPREADER_steel.brp",
+    "ref": "REAR-SPREADER",
+    "material": "steel",
+    "category": "adapters",
+    "volume_mm3": 4040.3396715173412,
+    "solid_count": 8,
+    "valid": true
+  },
+  {
+    "name": "D5_006_FRONT_SPREADER_silver",
+    "file": "brep/D5_006_FRONT_SPREADER_silver.brp",
+    "ref": "FRONT-SPREADER",
+    "material": "silver",
+    "category": "adapters",
+    "volume_mm3": 457118.8314017795,
+    "solid_count": 5,
+    "valid": true
+  },
+  {
+    "name": "D5_007_FRONT_SPREADER_steel",
+    "file": "brep/D5_007_FRONT_SPREADER_steel.brp",
+    "ref": "FRONT-SPREADER",
+    "material": "steel",
+    "category": "adapters",
+    "volume_mm3": 4040.3396715173435,
+    "solid_count": 8,
+    "valid": true
+  },
+  {
+    "name": "D5_008_GLAND_black",
+    "file": "brep/D5_008_GLAND_black.brp",
+    "ref": "GLAND",
+    "material": "black",
+    "category": "hardware",
+    "volume_mm3": 49722.21894512712,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_009_FRONT_GLAND_black",
+    "file": "brep/D5_009_FRONT_GLAND_black.brp",
+    "ref": "FRONT-GLAND",
+    "material": "black",
+    "category": "hardware",
+    "volume_mm3": 15866.61369695525,
+    "solid_count": 3,
+    "valid": true
+  },
+  {
+    "name": "D5_010_BATTERY_CROSS_silver",
+    "file": "brep/D5_010_BATTERY_CROSS_silver.brp",
+    "ref": "BATTERY-CROSS",
+    "material": "silver",
+    "category": "adapters",
+    "volume_mm3": 345963.0339092289,
+    "solid_count": 6,
+    "valid": true
+  },
+  {
+    "name": "D5_011_BATTERY_CROSS_steel",
+    "file": "brep/D5_011_BATTERY_CROSS_steel.brp",
+    "ref": "BATTERY-CROSS",
+    "material": "steel",
+    "category": "adapters",
+    "volume_mm3": 21624.170532391876,
+    "solid_count": 12,
+    "valid": true
+  },
+  {
+    "name": "D5_012_CASTER_RISER__1_silver",
+    "file": "brep/D5_012_CASTER_RISER__1_silver.brp",
+    "ref": "CASTER-RISER--1",
+    "material": "silver",
+    "category": "adapters",
+    "volume_mm3": 162094.2494313468,
+    "solid_count": 8,
+    "valid": true
+  },
+  {
+    "name": "D5_013_CASTER_RISER__1_steel",
+    "file": "brep/D5_013_CASTER_RISER__1_steel.brp",
+    "ref": "CASTER-RISER--1",
+    "material": "steel",
+    "category": "adapters",
+    "volume_mm3": 4596.235695110632,
+    "solid_count": 8,
+    "valid": true
+  },
+  {
+    "name": "D5_014_CASTER__1_steel",
+    "file": "brep/D5_014_CASTER__1_steel.brp",
+    "ref": "CASTER--1",
+    "material": "steel",
+    "category": "drive",
+    "volume_mm3": 90272.5352261185,
+    "solid_count": 6,
+    "valid": true
+  },
+  {
+    "name": "D5_015_CASTER__1_rubber",
+    "file": "brep/D5_015_CASTER__1_rubber.brp",
+    "ref": "CASTER--1",
+    "material": "rubber",
+    "category": "drive",
+    "volume_mm3": 205408.61453522783,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_016_CASTER__1_yellow",
+    "file": "brep/D5_016_CASTER__1_yellow.brp",
+    "ref": "CASTER--1",
+    "material": "yellow",
+    "category": "drive",
+    "volume_mm3": 88215.92171280138,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_017_CASTER__1_silver",
+    "file": "brep/D5_017_CASTER__1_silver.brp",
+    "ref": "CASTER--1",
+    "material": "silver",
+    "category": "drive",
+    "volume_mm3": 190.70321920491813,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_018_CASTER_RISER_1_silver",
+    "file": "brep/D5_018_CASTER_RISER_1_silver.brp",
+    "ref": "CASTER-RISER-1",
+    "material": "silver",
+    "category": "adapters",
+    "volume_mm3": 162094.2494313468,
+    "solid_count": 8,
+    "valid": true
+  },
+  {
+    "name": "D5_019_CASTER_RISER_1_steel",
+    "file": "brep/D5_019_CASTER_RISER_1_steel.brp",
+    "ref": "CASTER-RISER-1",
+    "material": "steel",
+    "category": "adapters",
+    "volume_mm3": 4596.235695110632,
+    "solid_count": 8,
+    "valid": true
+  },
+  {
+    "name": "D5_020_CASTER_1_steel",
+    "file": "brep/D5_020_CASTER_1_steel.brp",
+    "ref": "CASTER-1",
+    "material": "steel",
+    "category": "drive",
+    "volume_mm3": 90272.5352261185,
+    "solid_count": 6,
+    "valid": true
+  },
+  {
+    "name": "D5_021_CASTER_1_rubber",
+    "file": "brep/D5_021_CASTER_1_rubber.brp",
+    "ref": "CASTER-1",
+    "material": "rubber",
+    "category": "drive",
+    "volume_mm3": 205408.61453522783,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_022_CASTER_1_yellow",
+    "file": "brep/D5_022_CASTER_1_yellow.brp",
+    "ref": "CASTER-1",
+    "material": "yellow",
+    "category": "drive",
+    "volume_mm3": 88215.92171280138,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_023_CASTER_1_silver",
+    "file": "brep/D5_023_CASTER_1_silver.brp",
+    "ref": "CASTER-1",
+    "material": "silver",
+    "category": "drive",
+    "volume_mm3": 190.70321920491813,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_024_SCMB_R_silver",
+    "file": "brep/D5_024_SCMB_R_silver.brp",
+    "ref": "SCMB-R",
+    "material": "silver",
+    "category": "drive",
+    "volume_mm3": 228237.78359932773,
+    "solid_count": 5,
+    "valid": true
+  },
+  {
+    "name": "D5_025_SCMB_R_steel",
+    "file": "brep/D5_025_SCMB_R_steel.brp",
+    "ref": "SCMB-R",
+    "material": "steel",
+    "category": "drive",
+    "volume_mm3": 7307.671947030793,
+    "solid_count": 12,
+    "valid": true
+  },
+  {
+    "name": "D5_026_DRIVE_RISER__1_silver",
+    "file": "brep/D5_026_DRIVE_RISER__1_silver.brp",
+    "ref": "DRIVE-RISER--1",
+    "material": "silver",
+    "category": "adapters",
+    "volume_mm3": 245345.82803373586,
+    "solid_count": 8,
+    "valid": true
+  },
+  {
+    "name": "D5_027_DRIVE_RISER__1_steel",
+    "file": "brep/D5_027_DRIVE_RISER__1_steel.brp",
+    "ref": "DRIVE-RISER--1",
+    "material": "steel",
+    "category": "adapters",
+    "volume_mm3": 5337.4303932350085,
+    "solid_count": 8,
+    "valid": true
+  },
+  {
+    "name": "D5_028_MOTOR_R_silver",
+    "file": "brep/D5_028_MOTOR_R_silver.brp",
+    "ref": "MOTOR-R",
+    "material": "silver",
+    "category": "drive",
+    "volume_mm3": 232067.1023948129,
+    "solid_count": 8,
+    "valid": true
+  },
+  {
+    "name": "D5_029_MOTOR_R_black",
+    "file": "brep/D5_029_MOTOR_R_black.brp",
+    "ref": "MOTOR-R",
+    "material": "black",
+    "category": "drive",
+    "volume_mm3": 350693.3489823996,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_030_MOTOR_R_steel",
+    "file": "brep/D5_030_MOTOR_R_steel.brp",
+    "ref": "MOTOR-R",
+    "material": "steel",
+    "category": "drive",
+    "volume_mm3": 26751.59538184515,
+    "solid_count": 14,
+    "valid": true
+  },
+  {
+    "name": "D5_031_MOTOR_R_gold",
+    "file": "brep/D5_031_MOTOR_R_gold.brp",
+    "ref": "MOTOR-R",
+    "material": "gold",
+    "category": "drive",
+    "volume_mm3": 468.0,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_032_WHEEL_R_rubber",
+    "file": "brep/D5_032_WHEEL_R_rubber.brp",
+    "ref": "WHEEL-R",
+    "material": "rubber",
+    "category": "drive",
+    "volume_mm3": 702083.3464119872,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_033_WHEEL_R_silver",
+    "file": "brep/D5_033_WHEEL_R_silver.brp",
+    "ref": "WHEEL-R",
+    "material": "silver",
+    "category": "drive",
+    "volume_mm3": 290825.7227881039,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_034_WHEEL_R_steel",
+    "file": "brep/D5_034_WHEEL_R_steel.brp",
+    "ref": "WHEEL-R",
+    "material": "steel",
+    "category": "drive",
+    "volume_mm3": 21438.29114784696,
+    "solid_count": 3,
+    "valid": true
+  },
+  {
+    "name": "D5_035_SCMB_L_silver",
+    "file": "brep/D5_035_SCMB_L_silver.brp",
+    "ref": "SCMB-L",
+    "material": "silver",
+    "category": "drive",
+    "volume_mm3": 228237.78359806375,
+    "solid_count": 5,
+    "valid": true
+  },
+  {
+    "name": "D5_036_SCMB_L_steel",
+    "file": "brep/D5_036_SCMB_L_steel.brp",
+    "ref": "SCMB-L",
+    "material": "steel",
+    "category": "drive",
+    "volume_mm3": 7307.671947030798,
+    "solid_count": 12,
+    "valid": true
+  },
+  {
+    "name": "D5_037_DRIVE_RISER_1_silver",
+    "file": "brep/D5_037_DRIVE_RISER_1_silver.brp",
+    "ref": "DRIVE-RISER-1",
+    "material": "silver",
+    "category": "adapters",
+    "volume_mm3": 245345.8280337359,
+    "solid_count": 8,
+    "valid": true
+  },
+  {
+    "name": "D5_038_DRIVE_RISER_1_steel",
+    "file": "brep/D5_038_DRIVE_RISER_1_steel.brp",
+    "ref": "DRIVE-RISER-1",
+    "material": "steel",
+    "category": "adapters",
+    "volume_mm3": 5337.430393235009,
+    "solid_count": 8,
+    "valid": true
+  },
+  {
+    "name": "D5_039_MOTOR_L_silver",
+    "file": "brep/D5_039_MOTOR_L_silver.brp",
+    "ref": "MOTOR-L",
+    "material": "silver",
+    "category": "drive",
+    "volume_mm3": 232067.1023957702,
+    "solid_count": 8,
+    "valid": true
+  },
+  {
+    "name": "D5_040_MOTOR_L_black",
+    "file": "brep/D5_040_MOTOR_L_black.brp",
+    "ref": "MOTOR-L",
+    "material": "black",
+    "category": "drive",
+    "volume_mm3": 350693.34898239956,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_041_MOTOR_L_steel",
+    "file": "brep/D5_041_MOTOR_L_steel.brp",
+    "ref": "MOTOR-L",
+    "material": "steel",
+    "category": "drive",
+    "volume_mm3": 26751.595381845164,
+    "solid_count": 14,
+    "valid": true
+  },
+  {
+    "name": "D5_042_MOTOR_L_gold",
+    "file": "brep/D5_042_MOTOR_L_gold.brp",
+    "ref": "MOTOR-L",
+    "material": "gold",
+    "category": "drive",
+    "volume_mm3": 468.0,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_043_WHEEL_L_rubber",
+    "file": "brep/D5_043_WHEEL_L_rubber.brp",
+    "ref": "WHEEL-L",
+    "material": "rubber",
+    "category": "drive",
+    "volume_mm3": 702083.3464119872,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_044_WHEEL_L_silver",
+    "file": "brep/D5_044_WHEEL_L_silver.brp",
+    "ref": "WHEEL-L",
+    "material": "silver",
+    "category": "drive",
+    "volume_mm3": 290825.7227881039,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_045_WHEEL_L_steel",
+    "file": "brep/D5_045_WHEEL_L_steel.brp",
+    "ref": "WHEEL-L",
+    "material": "steel",
+    "category": "drive",
+    "volume_mm3": 21438.291147846965,
+    "solid_count": 3,
+    "valid": true
+  },
+  {
+    "name": "D5_046_TRAY_BAT1_silver",
+    "file": "brep/D5_046_TRAY_BAT1_silver.brp",
+    "ref": "TRAY-BAT1",
+    "material": "silver",
+    "category": "battery",
+    "volume_mm3": 103851.12935032917,
+    "solid_count": 9,
+    "valid": true
+  },
+  {
+    "name": "D5_047_TRAY_BAT1_rubber",
+    "file": "brep/D5_047_TRAY_BAT1_rubber.brp",
+    "ref": "TRAY-BAT1",
+    "material": "rubber",
+    "category": "battery",
+    "volume_mm3": 30983.79570472951,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_048_TRAY_BAT1_steel",
+    "file": "brep/D5_048_TRAY_BAT1_steel.brp",
+    "ref": "TRAY-BAT1",
+    "material": "steel",
+    "category": "battery",
+    "volume_mm3": 22401.33070077093,
+    "solid_count": 12,
+    "valid": true
+  },
+  {
+    "name": "D5_049_BAT1_battery",
+    "file": "brep/D5_049_BAT1_battery.brp",
+    "ref": "BAT1",
+    "material": "battery",
+    "category": "battery",
+    "volume_mm3": 2326030.4213853683,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_050_BAT1_black",
+    "file": "brep/D5_050_BAT1_black.brp",
+    "ref": "BAT1",
+    "material": "black",
+    "category": "battery",
+    "volume_mm3": 101208.44236023308,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_051_BAT1_steel",
+    "file": "brep/D5_051_BAT1_steel.brp",
+    "ref": "BAT1",
+    "material": "steel",
+    "category": "battery",
+    "volume_mm3": 528.966822228909,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_052_BAT1_red",
+    "file": "brep/D5_052_BAT1_red.brp",
+    "ref": "BAT1",
+    "material": "red",
+    "category": "battery",
+    "volume_mm3": 2064.297887441375,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_053_TRAY_BAT1_paint",
+    "file": "brep/D5_053_TRAY_BAT1_paint.brp",
+    "ref": "TRAY-BAT1",
+    "material": "paint",
+    "category": "battery",
+    "volume_mm3": 24247.999999999978,
+    "solid_count": 6,
+    "valid": true
+  },
+  {
+    "name": "D5_054_F_BAT1_silver",
+    "file": "brep/D5_054_F_BAT1_silver.brp",
+    "ref": "F-BAT1",
+    "material": "silver",
+    "category": "power",
+    "volume_mm3": 14567.999999999996,
+    "solid_count": 3,
+    "valid": true
+  },
+  {
+    "name": "D5_055_F_BAT1_black",
+    "file": "brep/D5_055_F_BAT1_black.brp",
+    "ref": "F-BAT1",
+    "material": "black",
+    "category": "power",
+    "volume_mm3": 29856.69004940773,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_056_F_BAT1_steel",
+    "file": "brep/D5_056_F_BAT1_steel.brp",
+    "ref": "F-BAT1",
+    "material": "steel",
+    "category": "power",
+    "volume_mm3": 402.1238596594934,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_057_TRAY_BAT2_silver",
+    "file": "brep/D5_057_TRAY_BAT2_silver.brp",
+    "ref": "TRAY-BAT2",
+    "material": "silver",
+    "category": "battery",
+    "volume_mm3": 103851.12935032917,
+    "solid_count": 9,
+    "valid": true
+  },
+  {
+    "name": "D5_058_TRAY_BAT2_rubber",
+    "file": "brep/D5_058_TRAY_BAT2_rubber.brp",
+    "ref": "TRAY-BAT2",
+    "material": "rubber",
+    "category": "battery",
+    "volume_mm3": 30983.79570472951,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_059_TRAY_BAT2_steel",
+    "file": "brep/D5_059_TRAY_BAT2_steel.brp",
+    "ref": "TRAY-BAT2",
+    "material": "steel",
+    "category": "battery",
+    "volume_mm3": 22401.330700770926,
+    "solid_count": 12,
+    "valid": true
+  },
+  {
+    "name": "D5_060_BAT2_battery",
+    "file": "brep/D5_060_BAT2_battery.brp",
+    "ref": "BAT2",
+    "material": "battery",
+    "category": "battery",
+    "volume_mm3": 2326030.4213853683,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_061_BAT2_black",
+    "file": "brep/D5_061_BAT2_black.brp",
+    "ref": "BAT2",
+    "material": "black",
+    "category": "battery",
+    "volume_mm3": 101208.44236023308,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_062_BAT2_steel",
+    "file": "brep/D5_062_BAT2_steel.brp",
+    "ref": "BAT2",
+    "material": "steel",
+    "category": "battery",
+    "volume_mm3": 528.966822228909,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_063_BAT2_red",
+    "file": "brep/D5_063_BAT2_red.brp",
+    "ref": "BAT2",
+    "material": "red",
+    "category": "battery",
+    "volume_mm3": 2064.297887441375,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_064_TRAY_BAT2_paint",
+    "file": "brep/D5_064_TRAY_BAT2_paint.brp",
+    "ref": "TRAY-BAT2",
+    "material": "paint",
+    "category": "battery",
+    "volume_mm3": 24247.999999999978,
+    "solid_count": 6,
+    "valid": true
+  },
+  {
+    "name": "D5_065_F_BAT2_silver",
+    "file": "brep/D5_065_F_BAT2_silver.brp",
+    "ref": "F-BAT2",
+    "material": "silver",
+    "category": "power",
+    "volume_mm3": 14567.999999999996,
+    "solid_count": 3,
+    "valid": true
+  },
+  {
+    "name": "D5_066_F_BAT2_black",
+    "file": "brep/D5_066_F_BAT2_black.brp",
+    "ref": "F-BAT2",
+    "material": "black",
+    "category": "power",
+    "volume_mm3": 29856.69004940773,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_067_F_BAT2_steel",
+    "file": "brep/D5_067_F_BAT2_steel.brp",
+    "ref": "F-BAT2",
+    "material": "steel",
+    "category": "power",
+    "volume_mm3": 402.1238596594934,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_068_POWER_TRAY_silver",
+    "file": "brep/D5_068_POWER_TRAY_silver.brp",
+    "ref": "POWER-TRAY",
+    "material": "silver",
+    "category": "power",
+    "volume_mm3": 444156.1168040085,
+    "solid_count": 9,
+    "valid": true
+  },
+  {
+    "name": "D5_069_POWER_TRAY_steel",
+    "file": "brep/D5_069_POWER_TRAY_steel.brp",
+    "ref": "POWER-TRAY",
+    "material": "steel",
+    "category": "power",
+    "volume_mm3": 1600.2877944976403,
+    "solid_count": 8,
+    "valid": true
+  },
+  {
+    "name": "D5_070_POWER_GUARD_clear",
+    "file": "brep/D5_070_POWER_GUARD_clear.brp",
+    "ref": "POWER-GUARD",
+    "material": "clear",
+    "category": "covers",
+    "volume_mm3": 114058.2856536962,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_071_DRV_R_gold",
+    "file": "brep/D5_071_DRV_R_gold.brp",
+    "ref": "DRV-R",
+    "material": "gold",
+    "category": "power",
+    "volume_mm3": 912.2229449755401,
+    "solid_count": 16,
+    "valid": true
+  },
+  {
+    "name": "D5_072_DRV_R_bluepcb",
+    "file": "brep/D5_072_DRV_R_bluepcb.brp",
+    "ref": "DRV-R",
+    "material": "bluepcb",
+    "category": "power",
+    "volume_mm3": 4318.277855905385,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_073_DRV_R_black",
+    "file": "brep/D5_073_DRV_R_black.brp",
+    "ref": "DRV-R",
+    "material": "black",
+    "category": "power",
+    "volume_mm3": 718.7355549492582,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_074_DRV_R_silver",
+    "file": "brep/D5_074_DRV_R_silver.brp",
+    "ref": "DRV-R",
+    "material": "silver",
+    "category": "power",
+    "volume_mm3": 29020.408000000094,
+    "solid_count": 24,
+    "valid": true
+  },
+  {
+    "name": "D5_075_DRV_R_green",
+    "file": "brep/D5_075_DRV_R_green.brp",
+    "ref": "DRV-R",
+    "material": "green",
+    "category": "power",
+    "volume_mm3": 3794.985237577096,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_076_DRV_R_steel",
+    "file": "brep/D5_076_DRV_R_steel.brp",
+    "ref": "DRV-R",
+    "material": "steel",
+    "category": "power",
+    "volume_mm3": 78.53981633974486,
+    "solid_count": 4,
+    "valid": true
+  },
+  {
+    "name": "D5_077_DRV_L_gold",
+    "file": "brep/D5_077_DRV_L_gold.brp",
+    "ref": "DRV-L",
+    "material": "gold",
+    "category": "power",
+    "volume_mm3": 912.2229449755398,
+    "solid_count": 16,
+    "valid": true
+  },
+  {
+    "name": "D5_078_DRV_L_bluepcb",
+    "file": "brep/D5_078_DRV_L_bluepcb.brp",
+    "ref": "DRV-L",
+    "material": "bluepcb",
+    "category": "power",
+    "volume_mm3": 4318.277855905385,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_079_DRV_L_black",
+    "file": "brep/D5_079_DRV_L_black.brp",
+    "ref": "DRV-L",
+    "material": "black",
+    "category": "power",
+    "volume_mm3": 718.7355549492582,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_080_DRV_L_silver",
+    "file": "brep/D5_080_DRV_L_silver.brp",
+    "ref": "DRV-L",
+    "material": "silver",
+    "category": "power",
+    "volume_mm3": 29020.408000000072,
+    "solid_count": 24,
+    "valid": true
+  },
+  {
+    "name": "D5_081_DRV_L_green",
+    "file": "brep/D5_081_DRV_L_green.brp",
+    "ref": "DRV-L",
+    "material": "green",
+    "category": "power",
+    "volume_mm3": 3794.985237577096,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_082_DRV_L_steel",
+    "file": "brep/D5_082_DRV_L_steel.brp",
+    "ref": "DRV-L",
+    "material": "steel",
+    "category": "power",
+    "volume_mm3": 78.53981633974486,
+    "solid_count": 4,
+    "valid": true
+  },
+  {
+    "name": "D5_083_K1_black",
+    "file": "brep/D5_083_K1_black.brp",
+    "ref": "K1",
+    "material": "black",
+    "category": "power",
+    "volume_mm3": 207541.53942446306,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_084_K1_gold",
+    "file": "brep/D5_084_K1_gold.brp",
+    "ref": "K1",
+    "material": "gold",
+    "category": "power",
+    "volume_mm3": 1256.6370614359175,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_085_K1_steel",
+    "file": "brep/D5_085_K1_steel.brp",
+    "ref": "K1",
+    "material": "steel",
+    "category": "power",
+    "volume_mm3": 276.460153515902,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_086_J_SERVICE_red",
+    "file": "brep/D5_086_J_SERVICE_red.brp",
+    "ref": "J-SERVICE",
+    "material": "red",
+    "category": "power",
+    "volume_mm3": 22747.586893313524,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_087_BUSPOS_red",
+    "file": "brep/D5_087_BUSPOS_red.brp",
+    "ref": "BUS+",
+    "material": "red",
+    "category": "power",
+    "volume_mm3": 26079.811089217797,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_088_BUSPOS_gold",
+    "file": "brep/D5_088_BUSPOS_gold.brp",
+    "ref": "BUS+",
+    "material": "gold",
+    "category": "power",
+    "volume_mm3": 904.7786842338603,
+    "solid_count": 4,
+    "valid": true
+  },
+  {
+    "name": "D5_089_BUS__black",
+    "file": "brep/D5_089_BUS__black.brp",
+    "ref": "BUS-",
+    "material": "black",
+    "category": "power",
+    "volume_mm3": 26079.811089217797,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_090_BUS__gold",
+    "file": "brep/D5_090_BUS__gold.brp",
+    "ref": "BUS-",
+    "material": "gold",
+    "category": "power",
+    "volume_mm3": 904.7786842338604,
+    "solid_count": 4,
+    "valid": true
+  },
+  {
+    "name": "D5_091_F_L_black",
+    "file": "brep/D5_091_F_L_black.brp",
+    "ref": "F-L",
+    "material": "black",
+    "category": "power",
+    "volume_mm3": 12749.191670342916,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_092_F_L_steel",
+    "file": "brep/D5_092_F_L_steel.brp",
+    "ref": "F-L",
+    "material": "steel",
+    "category": "power",
+    "volume_mm3": 84.9486653530681,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_093_F_R_black",
+    "file": "brep/D5_093_F_R_black.brp",
+    "ref": "F-R",
+    "material": "black",
+    "category": "power",
+    "volume_mm3": 12749.191670342916,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_094_F_R_steel",
+    "file": "brep/D5_094_F_R_steel.brp",
+    "ref": "F-R",
+    "material": "steel",
+    "category": "power",
+    "volume_mm3": 84.9486653530681,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_095_F_5V_black",
+    "file": "brep/D5_095_F_5V_black.brp",
+    "ref": "F-5V",
+    "material": "black",
+    "category": "power",
+    "volume_mm3": 12749.191670342916,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_096_F_5V_steel",
+    "file": "brep/D5_096_F_5V_steel.brp",
+    "ref": "F-5V",
+    "material": "steel",
+    "category": "power",
+    "volume_mm3": 84.94866535306807,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_097_F_COIL_black",
+    "file": "brep/D5_097_F_COIL_black.brp",
+    "ref": "F-COIL",
+    "material": "black",
+    "category": "power",
+    "volume_mm3": 12749.191670342916,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_098_F_COIL_steel",
+    "file": "brep/D5_098_F_COIL_steel.brp",
+    "ref": "F-COIL",
+    "material": "steel",
+    "category": "power",
+    "volume_mm3": 84.94866535306807,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_099_F_SENSE_black",
+    "file": "brep/D5_099_F_SENSE_black.brp",
+    "ref": "F-SENSE",
+    "material": "black",
+    "category": "power",
+    "volume_mm3": 12749.191670342916,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_100_F_SENSE_steel",
+    "file": "brep/D5_100_F_SENSE_steel.brp",
+    "ref": "F-SENSE",
+    "material": "steel",
+    "category": "power",
+    "volume_mm3": 84.94866535306808,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_101_DC5_silver",
+    "file": "brep/D5_101_DC5_silver.brp",
+    "ref": "DC5",
+    "material": "silver",
+    "category": "power",
+    "volume_mm3": 127691.03228440639,
+    "solid_count": 11,
+    "valid": true
+  },
+  {
+    "name": "D5_102_5VPOS_red",
+    "file": "brep/D5_102_5VPOS_red.brp",
+    "ref": "5V+",
+    "material": "red",
+    "category": "power",
+    "volume_mm3": 7710.961593584968,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_103_5V__black",
+    "file": "brep/D5_103_5V__black.brp",
+    "ref": "5V-",
+    "material": "black",
+    "category": "power",
+    "volume_mm3": 7710.961593584967,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_104_CONTROL_BASE_silver",
+    "file": "brep/D5_104_CONTROL_BASE_silver.brp",
+    "ref": "CONTROL-BASE",
+    "material": "silver",
+    "category": "controls",
+    "volume_mm3": 328543.911441378,
+    "solid_count": 5,
+    "valid": true
+  },
+  {
+    "name": "D5_105_CONTROL_BASE_gold",
+    "file": "brep/D5_105_CONTROL_BASE_gold.brp",
+    "ref": "CONTROL-BASE",
+    "material": "gold",
+    "category": "controls",
+    "volume_mm3": 1206.3715789784806,
+    "solid_count": 4,
+    "valid": true
+  },
+  {
+    "name": "D5_106_CONTROL_BASE_steel",
+    "file": "brep/D5_106_CONTROL_BASE_steel.brp",
+    "ref": "CONTROL-BASE",
+    "material": "steel",
+    "category": "controls",
+    "volume_mm3": 1275.9402315713744,
+    "solid_count": 8,
+    "valid": true
+  },
+  {
+    "name": "D5_107_CONTROL_COVER_clear",
+    "file": "brep/D5_107_CONTROL_COVER_clear.brp",
+    "ref": "CONTROL-COVER",
+    "material": "clear",
+    "category": "covers",
+    "volume_mm3": 483966.09922427754,
+    "solid_count": 5,
+    "valid": true
+  },
+  {
+    "name": "D5_108_PI4_pcb",
+    "file": "brep/D5_108_PI4_pcb.brp",
+    "ref": "PI4",
+    "material": "pcb",
+    "category": "controls",
+    "volume_mm3": 7605.019359441853,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_109_PI4_black",
+    "file": "brep/D5_109_PI4_black.brp",
+    "ref": "PI4",
+    "material": "black",
+    "category": "controls",
+    "volume_mm3": 66939.87829489191,
+    "solid_count": 24,
+    "valid": true
+  },
+  {
+    "name": "D5_110_PI4_silver",
+    "file": "brep/D5_110_PI4_silver.brp",
+    "ref": "PI4",
+    "material": "silver",
+    "category": "controls",
+    "volume_mm3": 38.80799999999961,
+    "solid_count": 14,
+    "valid": true
+  },
+  {
+    "name": "D5_111_PI4_steel",
+    "file": "brep/D5_111_PI4_steel.brp",
+    "ref": "PI4",
+    "material": "steel",
+    "category": "controls",
+    "volume_mm3": 10057.02091564818,
+    "solid_count": 4,
+    "valid": true
+  },
+  {
+    "name": "D5_112_PI4_blue",
+    "file": "brep/D5_112_PI4_blue.brp",
+    "ref": "PI4",
+    "material": "blue",
+    "category": "controls",
+    "volume_mm3": 319.99999999999994,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_113_USB_HUB_black",
+    "file": "brep/D5_113_USB_HUB_black.brp",
+    "ref": "USB-HUB",
+    "material": "black",
+    "category": "controls",
+    "volume_mm3": 72234.50131949164,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_114_USB_HUB_steel",
+    "file": "brep/D5_114_USB_HUB_steel.brp",
+    "ref": "USB-HUB",
+    "material": "steel",
+    "category": "controls",
+    "volume_mm3": 2376.6342114421386,
+    "solid_count": 4,
+    "valid": true
+  },
+  {
+    "name": "D5_115_ESP32_pcb",
+    "file": "brep/D5_115_ESP32_pcb.brp",
+    "ref": "ESP32",
+    "material": "pcb",
+    "category": "controls",
+    "volume_mm3": 2421.970325452913,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_116_ESP32_black",
+    "file": "brep/D5_116_ESP32_black.brp",
+    "ref": "ESP32",
+    "material": "black",
+    "category": "controls",
+    "volume_mm3": 1653.0000347158286,
+    "solid_count": 3,
+    "valid": true
+  },
+  {
+    "name": "D5_117_ESP32_silver",
+    "file": "brep/D5_117_ESP32_silver.brp",
+    "ref": "ESP32",
+    "material": "silver",
+    "category": "controls",
+    "volume_mm3": 38.80799999999958,
+    "solid_count": 14,
+    "valid": true
+  },
+  {
+    "name": "D5_118_ESP32_steel",
+    "file": "brep/D5_118_ESP32_steel.brp",
+    "ref": "ESP32",
+    "material": "steel",
+    "category": "controls",
+    "volume_mm3": 811.141284678814,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_119_ESP32_gold",
+    "file": "brep/D5_119_ESP32_gold.brp",
+    "ref": "ESP32",
+    "material": "gold",
+    "category": "controls",
+    "volume_mm3": 164.75096491487233,
+    "solid_count": 39,
+    "valid": true
+  },
+  {
+    "name": "D5_120_INA226_bluepcb",
+    "file": "brep/D5_120_INA226_bluepcb.brp",
+    "ref": "INA226",
+    "material": "bluepcb",
+    "category": "controls",
+    "volume_mm3": 860.2814855924526,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_121_INA226_black",
+    "file": "brep/D5_121_INA226_black.brp",
+    "ref": "INA226",
+    "material": "black",
+    "category": "controls",
+    "volume_mm3": 142.9671763255883,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_122_INA226_silver",
+    "file": "brep/D5_122_INA226_silver.brp",
+    "ref": "INA226",
+    "material": "silver",
+    "category": "controls",
+    "volume_mm3": 38.80799999999934,
+    "solid_count": 14,
+    "valid": true
+  },
+  {
+    "name": "D5_123_INA226_gold",
+    "file": "brep/D5_123_INA226_gold.brp",
+    "ref": "INA226",
+    "material": "gold",
+    "category": "controls",
+    "volume_mm3": 75.39822368615509,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_124_LEVEL_IF_pcb",
+    "file": "brep/D5_124_LEVEL_IF_pcb.brp",
+    "ref": "LEVEL-IF",
+    "material": "pcb",
+    "category": "controls",
+    "volume_mm3": 1607.6136090300947,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_125_LEVEL_IF_black",
+    "file": "brep/D5_125_LEVEL_IF_black.brp",
+    "ref": "LEVEL-IF",
+    "material": "black",
+    "category": "controls",
+    "volume_mm3": 267.3942229007983,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_126_LEVEL_IF_silver",
+    "file": "brep/D5_126_LEVEL_IF_silver.brp",
+    "ref": "LEVEL-IF",
+    "material": "silver",
+    "category": "controls",
+    "volume_mm3": 38.80799999999947,
+    "solid_count": 14,
+    "valid": true
+  },
+  {
+    "name": "D5_127_CTRL_TB_green",
+    "file": "brep/D5_127_CTRL_TB_green.brp",
+    "ref": "CTRL-TB",
+    "material": "green",
+    "category": "controls",
+    "volume_mm3": 5343.825942073764,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_128_CTRL_TB_steel",
+    "file": "brep/D5_128_CTRL_TB_steel.brp",
+    "ref": "CTRL-TB",
+    "material": "steel",
+    "category": "controls",
+    "volume_mm3": 98.17477042468103,
+    "solid_count": 5,
+    "valid": true
+  },
+  {
+    "name": "D5_129_CTRL_TB_gold",
+    "file": "brep/D5_129_CTRL_TB_gold.brp",
+    "ref": "CTRL-TB",
+    "material": "gold",
+    "category": "controls",
+    "volume_mm3": 351.23005867133907,
+    "solid_count": 5,
+    "valid": true
+  },
+  {
+    "name": "D5_130_HANDLE_HINGE_steel",
+    "file": "brep/D5_130_HANDLE_HINGE_steel.brp",
+    "ref": "HANDLE-HINGE",
+    "material": "steel",
+    "category": "handle",
+    "volume_mm3": 117778.01025494137,
+    "solid_count": 8,
+    "valid": true
+  },
+  {
+    "name": "D5_131_HANDLE_HINGE_silver",
+    "file": "brep/D5_131_HANDLE_HINGE_silver.brp",
+    "ref": "HANDLE-HINGE",
+    "material": "silver",
+    "category": "handle",
+    "volume_mm3": 595.9475600153729,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_132_HANDLE_paint",
+    "file": "brep/D5_132_HANDLE_paint.brp",
+    "ref": "HANDLE",
+    "material": "paint",
+    "category": "handle",
+    "volume_mm3": 192589.89919127428,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_133_HANDLE_GRIP_rubber",
+    "file": "brep/D5_133_HANDLE_GRIP_rubber.brp",
+    "ref": "HANDLE-GRIP",
+    "material": "rubber",
+    "category": "handle",
+    "volume_mm3": 47862.7923959715,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_134_HANDLE_BRACE_paint",
+    "file": "brep/D5_134_HANDLE_BRACE_paint.brp",
+    "ref": "HANDLE-BRACE",
+    "material": "paint",
+    "category": "handle",
+    "volume_mm3": 137734.76284229336,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_135_E_STOP_yellow",
+    "file": "brep/D5_135_E_STOP_yellow.brp",
+    "ref": "E-STOP",
+    "material": "yellow",
+    "category": "handle",
+    "volume_mm3": 217958.5597662962,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_136_E_STOP_black",
+    "file": "brep/D5_136_E_STOP_black.brp",
+    "ref": "E-STOP",
+    "material": "black",
+    "category": "handle",
+    "volume_mm3": 5541.769440932395,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_137_E_STOP_red",
+    "file": "brep/D5_137_E_STOP_red.brp",
+    "ref": "E-STOP",
+    "material": "red",
+    "category": "handle",
+    "volume_mm3": 23169.245820224718,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_138_E_STOP_steel",
+    "file": "brep/D5_138_E_STOP_steel.brp",
+    "ref": "E-STOP",
+    "material": "steel",
+    "category": "handle",
+    "volume_mm3": 7364.898489663632,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_139_RESET_black",
+    "file": "brep/D5_139_RESET_black.brp",
+    "ref": "RESET",
+    "material": "black",
+    "category": "handle",
+    "volume_mm3": 45821.78738493696,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_140_RESET_green",
+    "file": "brep/D5_140_RESET_green.brp",
+    "ref": "RESET",
+    "material": "green",
+    "category": "handle",
+    "volume_mm3": 2035.7520395261874,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_141_UWB_R_black",
+    "file": "brep/D5_141_UWB_R_black.brp",
+    "ref": "UWB-R",
+    "material": "black",
+    "category": "sensors",
+    "volume_mm3": 28263.926746962006,
+    "solid_count": 3,
+    "valid": true
+  },
+  {
+    "name": "D5_142_UWB_R_pcb",
+    "file": "brep/D5_142_UWB_R_pcb.brp",
+    "ref": "UWB-R",
+    "material": "pcb",
+    "category": "sensors",
+    "volume_mm3": 3819.541395872444,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_143_UWB_R_gold",
+    "file": "brep/D5_143_UWB_R_gold.brp",
+    "ref": "UWB-R",
+    "material": "gold",
+    "category": "sensors",
+    "volume_mm3": 37.49999999999621,
+    "solid_count": 10,
+    "valid": true
+  },
+  {
+    "name": "D5_144_UWB_R_steel",
+    "file": "brep/D5_144_UWB_R_steel.brp",
+    "ref": "UWB-R",
+    "material": "steel",
+    "category": "sensors",
+    "volume_mm3": 1182.3701697774256,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_145_UWB_L_black",
+    "file": "brep/D5_145_UWB_L_black.brp",
+    "ref": "UWB-L",
+    "material": "black",
+    "category": "sensors",
+    "volume_mm3": 28263.926746962006,
+    "solid_count": 3,
+    "valid": true
+  },
+  {
+    "name": "D5_146_UWB_L_pcb",
+    "file": "brep/D5_146_UWB_L_pcb.brp",
+    "ref": "UWB-L",
+    "material": "pcb",
+    "category": "sensors",
+    "volume_mm3": 3819.541395872444,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_147_UWB_L_gold",
+    "file": "brep/D5_147_UWB_L_gold.brp",
+    "ref": "UWB-L",
+    "material": "gold",
+    "category": "sensors",
+    "volume_mm3": 37.499999999996206,
+    "solid_count": 10,
+    "valid": true
+  },
+  {
+    "name": "D5_148_UWB_L_steel",
+    "file": "brep/D5_148_UWB_L_steel.brp",
+    "ref": "UWB-L",
+    "material": "steel",
+    "category": "sensors",
+    "volume_mm3": 1182.3701697774256,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_149_LIDAR_MOUNT_silver",
+    "file": "brep/D5_149_LIDAR_MOUNT_silver.brp",
+    "ref": "LIDAR-MOUNT",
+    "material": "silver",
+    "category": "sensors",
+    "volume_mm3": 36345.43716833232,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_150_LIDAR_black",
+    "file": "brep/D5_150_LIDAR_black.brp",
+    "ref": "LIDAR",
+    "material": "black",
+    "category": "sensors",
+    "volume_mm3": 59564.16938136051,
+    "solid_count": 7,
+    "valid": true
+  },
+  {
+    "name": "D5_151_LIDAR_sensorwindow",
+    "file": "brep/D5_151_LIDAR_sensorwindow.brp",
+    "ref": "LIDAR",
+    "material": "sensorwindow",
+    "category": "sensors",
+    "volume_mm3": 26185.30043137706,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_152_BU03_TAG_pcb",
+    "file": "brep/D5_152_BU03_TAG_pcb.brp",
+    "ref": "BU03-TAG",
+    "material": "pcb",
+    "category": "accessories",
+    "volume_mm3": 3122.1961854315787,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_153_BU03_TAG_black",
+    "file": "brep/D5_153_BU03_TAG_black.brp",
+    "ref": "BU03-TAG",
+    "material": "black",
+    "category": "accessories",
+    "volume_mm3": 11999.437487124433,
+    "solid_count": 2,
+    "valid": true
+  },
+  {
+    "name": "D5_154_BU03_TAG_silver",
+    "file": "brep/D5_154_BU03_TAG_silver.brp",
+    "ref": "BU03-TAG",
+    "material": "silver",
+    "category": "accessories",
+    "volume_mm3": 38.8079999999999,
+    "solid_count": 14,
+    "valid": true
+  },
+  {
+    "name": "D5_155_CHARGER_1_black",
+    "file": "brep/D5_155_CHARGER_1_black.brp",
+    "ref": "CHARGER-1",
+    "material": "black",
+    "category": "accessories",
+    "volume_mm3": 477909.6592886434,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_156_CHARGER_2_black",
+    "file": "brep/D5_156_CHARGER_2_black.brp",
+    "ref": "CHARGER-2",
+    "material": "black",
+    "category": "accessories",
+    "volume_mm3": 477909.65928864334,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_157_W01_red",
+    "file": "brep/D5_157_W01_red.brp",
+    "ref": "W01",
+    "material": "red",
+    "category": "wires",
+    "volume_mm3": 1812.70424295192,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_158_W02_red",
+    "file": "brep/D5_158_W02_red.brp",
+    "ref": "W02",
+    "material": "red",
+    "category": "wires",
+    "volume_mm3": 1812.70424295192,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_159_W03_red",
+    "file": "brep/D5_159_W03_red.brp",
+    "ref": "W03",
+    "material": "red",
+    "category": "wires",
+    "volume_mm3": 9925.442515032651,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_160_W04_wireblack",
+    "file": "brep/D5_160_W04_wireblack.brp",
+    "ref": "W04",
+    "material": "wireblack",
+    "category": "wires",
+    "volume_mm3": 3973.7255982516263,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_161_W05_red",
+    "file": "brep/D5_161_W05_red.brp",
+    "ref": "W05",
+    "material": "red",
+    "category": "wires",
+    "volume_mm3": 6483.82997408226,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_162_W06_red",
+    "file": "brep/D5_162_W06_red.brp",
+    "ref": "W06",
+    "material": "red",
+    "category": "wires",
+    "volume_mm3": 2954.9699325455226,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_163_W07_red",
+    "file": "brep/D5_163_W07_red.brp",
+    "ref": "W07",
+    "material": "red",
+    "category": "wires",
+    "volume_mm3": 2173.618957753704,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_164_W08_red",
+    "file": "brep/D5_164_W08_red.brp",
+    "ref": "W08",
+    "material": "red",
+    "category": "wires",
+    "volume_mm3": 4384.268926222741,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_165_W09_red",
+    "file": "brep/D5_165_W09_red.brp",
+    "ref": "W09",
+    "material": "red",
+    "category": "wires",
+    "volume_mm3": 4992.481263957724,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_166_W10_red",
+    "file": "brep/D5_166_W10_red.brp",
+    "ref": "W10",
+    "material": "red",
+    "category": "wires",
+    "volume_mm3": 3405.4140958255707,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_167_W11_red",
+    "file": "brep/D5_167_W11_red.brp",
+    "ref": "W11",
+    "material": "red",
+    "category": "wires",
+    "volume_mm3": 5461.504441627721,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_168_W13_wireblack",
+    "file": "brep/D5_168_W13_wireblack.brp",
+    "ref": "W13",
+    "material": "wireblack",
+    "category": "wires",
+    "volume_mm3": 6419.438873560311,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_169_WM_A_L_red",
+    "file": "brep/D5_169_WM_A_L_red.brp",
+    "ref": "WM-A-L",
+    "material": "red",
+    "category": "wires",
+    "volume_mm3": 6484.619405974176,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_170_WM_B_L_wireblack",
+    "file": "brep/D5_170_WM_B_L_wireblack.brp",
+    "ref": "WM-B-L",
+    "material": "wireblack",
+    "category": "wires",
+    "volume_mm3": 6362.961571783654,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_171_W12_red",
+    "file": "brep/D5_171_W12_red.brp",
+    "ref": "W12",
+    "material": "red",
+    "category": "wires",
+    "volume_mm3": 4822.881487005988,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_172_W14_wireblack",
+    "file": "brep/D5_172_W14_wireblack.brp",
+    "ref": "W14",
+    "material": "wireblack",
+    "category": "wires",
+    "volume_mm3": 9278.036860914737,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_173_WM_A_R_red",
+    "file": "brep/D5_173_WM_A_R_red.brp",
+    "ref": "WM-A-R",
+    "material": "red",
+    "category": "wires",
+    "volume_mm3": 7092.831743709163,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_174_WM_B_R_wireblack",
+    "file": "brep/D5_174_WM_B_R_wireblack.brp",
+    "ref": "WM-B-R",
+    "material": "wireblack",
+    "category": "wires",
+    "volume_mm3": 7366.511929046369,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_175_A01_red",
+    "file": "brep/D5_175_A01_red.brp",
+    "ref": "A01",
+    "material": "red",
+    "category": "wires",
+    "volume_mm3": 1439.5885420109307,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_176_A02_wireblack",
+    "file": "brep/D5_176_A02_wireblack.brp",
+    "ref": "A02",
+    "material": "wireblack",
+    "category": "wires",
+    "volume_mm3": 1471.4442915183286,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_177_A03_red",
+    "file": "brep/D5_177_A03_red.brp",
+    "ref": "A03",
+    "material": "red",
+    "category": "wires",
+    "volume_mm3": 1055.9589472772936,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_178_A04_wireblack",
+    "file": "brep/D5_178_A04_wireblack.brp",
+    "ref": "A04",
+    "material": "wireblack",
+    "category": "wires",
+    "volume_mm3": 838.1443045043706,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_179_A05_red",
+    "file": "brep/D5_179_A05_red.brp",
+    "ref": "A05",
+    "material": "red",
+    "category": "wires",
+    "volume_mm3": 5504.9260770736755,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_180_A06_wireblack",
+    "file": "brep/D5_180_A06_wireblack.brp",
+    "ref": "A06",
+    "material": "wireblack",
+    "category": "wires",
+    "volume_mm3": 5319.10087161383,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_181_A07_red",
+    "file": "brep/D5_181_A07_red.brp",
+    "ref": "A07",
+    "material": "red",
+    "category": "wires",
+    "volume_mm3": 4922.707484440491,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_182_A08_wireblack",
+    "file": "brep/D5_182_A08_wireblack.brp",
+    "ref": "A08",
+    "material": "wireblack",
+    "category": "wires",
+    "volume_mm3": 4736.882278980646,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_183_A09_red",
+    "file": "brep/D5_183_A09_red.brp",
+    "ref": "A09",
+    "material": "red",
+    "category": "wires",
+    "volume_mm3": 1217.1830217486022,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_184_A10_wireblack",
+    "file": "brep/D5_184_A10_wireblack.brp",
+    "ref": "A10",
+    "material": "wireblack",
+    "category": "wires",
+    "volume_mm3": 1267.0587585278272,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_185_USB_HOST_wireblack",
+    "file": "brep/D5_185_USB_HOST_wireblack.brp",
+    "ref": "USB-HOST",
+    "material": "wireblack",
+    "category": "wires",
+    "volume_mm3": 3545.8075580011864,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_186_USB_ESP_wireblack",
+    "file": "brep/D5_186_USB_ESP_wireblack.brp",
+    "ref": "USB-ESP",
+    "material": "wireblack",
+    "category": "wires",
+    "volume_mm3": 2699.2787278893393,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_187_USB_UWB_L_wireblack",
+    "file": "brep/D5_187_USB_UWB_L_wireblack.brp",
+    "ref": "USB-UWB-L",
+    "material": "wireblack",
+    "category": "wires",
+    "volume_mm3": 10953.644191986014,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_188_USB_UWB_R_wireblack",
+    "file": "brep/D5_188_USB_UWB_R_wireblack.brp",
+    "ref": "USB-UWB-R",
+    "material": "wireblack",
+    "category": "wires",
+    "volume_mm3": 13729.775746984109,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_189_USB_LIDAR_wireblack",
+    "file": "brep/D5_189_USB_LIDAR_wireblack.brp",
+    "ref": "USB-LIDAR",
+    "material": "wireblack",
+    "category": "wires",
+    "volume_mm3": 11453.051323449858,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_190_SIG_MCU_blue",
+    "file": "brep/D5_190_SIG_MCU_blue.brp",
+    "ref": "SIG-MCU",
+    "material": "blue",
+    "category": "wires",
+    "volume_mm3": 1447.7299036721702,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_191_SIG_I2C_purple",
+    "file": "brep/D5_191_SIG_I2C_purple.brp",
+    "ref": "SIG-I2C",
+    "material": "purple",
+    "category": "wires",
+    "volume_mm3": 800.0281441815239,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_192_SIG_L_blue",
+    "file": "brep/D5_192_SIG_L_blue.brp",
+    "ref": "SIG-L",
+    "material": "blue",
+    "category": "wires",
+    "volume_mm3": 4185.029496331721,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_193_SIG_R_blue",
+    "file": "brep/D5_193_SIG_R_blue.brp",
+    "ref": "SIG-R",
+    "material": "blue",
+    "category": "wires",
+    "volume_mm3": 5642.861307138555,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_194_C01_yellow",
+    "file": "brep/D5_194_C01_yellow.brp",
+    "ref": "C01",
+    "material": "yellow",
+    "category": "wires",
+    "volume_mm3": 1474.6717090411469,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_195_C02_yellow",
+    "file": "brep/D5_195_C02_yellow.brp",
+    "ref": "C02",
+    "material": "yellow",
+    "category": "wires",
+    "volume_mm3": 3998.623925098787,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_196_HANDLE_0_yellow",
+    "file": "brep/D5_196_HANDLE_0_yellow.brp",
+    "ref": "HANDLE-0",
+    "material": "yellow",
+    "category": "wires",
+    "volume_mm3": 6787.063838731595,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_197_HANDLE_1_yellow",
+    "file": "brep/D5_197_HANDLE_1_yellow.brp",
+    "ref": "HANDLE-1",
+    "material": "yellow",
+    "category": "wires",
+    "volume_mm3": 6864.0668225929285,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_198_HANDLE_2_blue",
+    "file": "brep/D5_198_HANDLE_2_blue.brp",
+    "ref": "HANDLE-2",
+    "material": "blue",
+    "category": "wires",
+    "volume_mm3": 6563.687558634578,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_199_C_HANDLE_yellow",
+    "file": "brep/D5_199_C_HANDLE_yellow.brp",
+    "ref": "C-HANDLE",
+    "material": "yellow",
+    "category": "wires",
+    "volume_mm3": 677.53772367783,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_200_C03_yellow",
+    "file": "brep/D5_200_C03_yellow.brp",
+    "ref": "C03",
+    "material": "yellow",
+    "category": "wires",
+    "volume_mm3": 3063.687552544144,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_201_C04_yellow",
+    "file": "brep/D5_201_C04_yellow.brp",
+    "ref": "C04",
+    "material": "yellow",
+    "category": "wires",
+    "volume_mm3": 2234.125581862128,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_202_C05_yellow",
+    "file": "brep/D5_202_C05_yellow.brp",
+    "ref": "C05",
+    "material": "yellow",
+    "category": "wires",
+    "volume_mm3": 1570.6257819099328,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_203_C06_wireblack",
+    "file": "brep/D5_203_C06_wireblack.brp",
+    "ref": "C06",
+    "material": "wireblack",
+    "category": "wires",
+    "volume_mm3": 2059.5267015033724,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_204_V01_purple",
+    "file": "brep/D5_204_V01_purple.brp",
+    "ref": "V01",
+    "material": "purple",
+    "category": "wires",
+    "volume_mm3": 533.9575502926546,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_205_V02_purple",
+    "file": "brep/D5_205_V02_purple.brp",
+    "ref": "V02",
+    "material": "purple",
+    "category": "wires",
+    "volume_mm3": 1815.488340748526,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_206_V03_wireblack",
+    "file": "brep/D5_206_V03_wireblack.brp",
+    "ref": "V03",
+    "material": "wireblack",
+    "category": "wires",
+    "volume_mm3": 1956.7652551614044,
+    "solid_count": 1,
+    "valid": true
+  },
+  {
+    "name": "D5_207_CABLE_CLIPS_black",
+    "file": "brep/D5_207_CABLE_CLIPS_black.brp",
+    "ref": "CABLE-CLIPS",
+    "material": "black",
+    "category": "hardware",
+    "volume_mm3": 2331.7277433243225,
+    "solid_count": 6,
+    "valid": true
+  },
+  {
+    "name": "D5_208_HANDLE_CLIPS_black",
+    "file": "brep/D5_208_HANDLE_CLIPS_black.brp",
+    "ref": "HANDLE-CLIPS",
+    "material": "black",
+    "category": "hardware",
+    "volume_mm3": 2086.1129582009935,
+    "solid_count": 3,
+    "valid": true
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "engine": "CadQuery 2.8.0",
+  "counts": {
+    "solid_parts": 782,
+    "components": 116,
+    "connections": 50,
+    "render_batches": 209,
+    "triangles": 555512
+  },
+  "brep_features_valid": true,
+  "geometry_bytes": 39996864,
+  "bracket_mass_kg": 0.6150834930590626,
+  "native_freecad_run": false,
+  "native_solidworks_run": false,
+  "physical_fit_test": false,
+  "structural_fea": false,
+  "electrical_energization": false
+}

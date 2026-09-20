@@ -1,0 +1,88 @@
+{
+  "scope": "Static data, endpoint, binary layout, links and CSV consistency. No native browser/physical/electrical approval.",
+  "checks": [
+    {
+      "name": "Model and parameter basis match",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Component identifiers unique",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Wire identifiers unique",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Every wire ends at its declared modeled port",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Binary geometry offsets and counts are complete",
+      "passed": true,
+      "detail": {
+        "bytes": 39996864
+      }
+    },
+    {
+      "name": "Triangle count matches binary metadata",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Connection CSV and model IDs match",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Parameter section deck",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Parameter section battery",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Parameter section drive",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Parameter section caster",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Parameter section handle",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Parameter section routing",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Explicit unresolved motor diameter conflict",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "HTML and README local links exist",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Only local runtime script dependencies",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "passed": true
+}

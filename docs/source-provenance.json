@@ -1,0 +1,26 @@
+{
+  "review_date": "2026-09-21",
+  "uploaded_document": {
+    "name": "AI_자율추종_캐리어_Astra_3D_CAD_부품규격서_V8_내용정리본.docx",
+    "sha256": "980a70c85118594aef5b7ea62ab3ec8cba89af2b3949be7c7d53c19f17a60da3",
+    "bytes": 3072171
+  },
+  "upstream": {
+    "Smart-Cart-4": {
+      "url": "https://github.com/JTech-CO/Smart-Cart-4",
+      "commit": "0d91785fc66699fb12a4c7b55bae2dfbb1adad1c"
+    },
+    "Motor-Bracket": {
+      "url": "https://github.com/JTech-CO/Motor-Bracket",
+      "parameter_blob": "81c48461c54e75b0c63525a2e6f43806858f77a3",
+      "generator_blob": "7b62a49bb4a3ead57460ee48a6d83fc5e8503644"
+    }
+  },
+  "local_basis": {
+    "data/parameters.json": "d05e069f70bc74496253537da717d5203019287d0fbdd5244457a5c0d05dfb91",
+    "data/bracket-parameters.json": "ae1c34439d4b492fb17d8cefe1811681776cb6fa17428222da2cd79e323d124e"
+  },
+  "license_claim": "No new blanket license applied to upstream material",
+  "manufacturer_cad_used": false,
+  "motor_102mm_alternative_cleared": false
+}

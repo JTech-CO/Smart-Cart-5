@@ -1,0 +1,10 @@
+{
+  "scope": "Exact OCC intersection of cable sweeps with registered frame, deck, battery, major component, PCB and removable-cover solids. Excludes tolerances, motion, fasteners, every small decorative feature, and cable-cable clearance. Not a manufacturing or electrical approval.",
+  "obstacle_count": 116,
+  "wire_count": 50,
+  "collisions": [],
+  "bend_failures": [],
+  "provisional_bend_rule": "4 x modeled OD, supplier minimum must be verified",
+  "passed": true,
+  "seconds": 61.55799055099487
+}

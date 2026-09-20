@@ -1,0 +1,74 @@
+{
+  "project": "Smart-Cart-5",
+  "version": "1.0.0",
+  "units": "mm",
+  "axes": "+X forward, +Y vehicle left, +Z up; ground Z=0",
+  "status": "PROTOTYPE INTEGRATION / MEASUREMENT & ENERGIZATION HOLD",
+  "deck": {
+    "length": 900,
+    "width": 600,
+    "thickness": 18,
+    "top": 310,
+    "frame_height": 30,
+    "frame_width": 30,
+    "frame_wall": 2
+  },
+  "battery": {
+    "length": 181,
+    "width": 77,
+    "height": 167,
+    "mass_each_kg": 5.5,
+    "base": 84,
+    "x": -40,
+    "side_y": 185,
+    "tray_clearance": 3
+  },
+  "drive": {
+    "rear_x": -335,
+    "mount_face_y": 280,
+    "wheel_diameter": 200,
+    "wheel_width": 40,
+    "wheel_hub_length": 30,
+    "wheel_bore": 17,
+    "wheel_center_y": 319,
+    "motor_body_diameter": 72,
+    "motor_total_length": 170,
+    "shaft_exposed": 44,
+    "axis_z": 100
+  },
+  "caster": {
+    "diameter": 110,
+    "width": 32,
+    "pivot_x": 345,
+    "side_y": 230,
+    "trail": 28,
+    "mount_top": 142
+  },
+  "handle": {
+    "hinge_x": -411,
+    "side_y": 245,
+    "height_above_deck": 670,
+    "tube_od": 25,
+    "tube_wall": 1.5
+  },
+  "routing": {
+    "wire12_od": 4.4,
+    "wire18_od": 2.6,
+    "minimum_bend_od_factor": 4,
+    "length_allowance": 1.15
+  },
+  "provenance": {
+    "deck.length/width": "V8 p9-10 A: purchased 900 x 600 option",
+    "deck.thickness/top/frame_*": "D design proposals; cart dimensions M; raised deck requires shown fabricated adapters",
+    "battery.length/width/height/mass_each_kg": "V8 p7 A/B: 181 x 77 x 167; 5.5 kg +/-5%; incoming unit M",
+    "battery.base/x/side_y/tray_clearance": "D integration: upright battery and 3mm tray clearance each side",
+    "drive.wheel_diameter/wheel_width/wheel_hub_length/wheel_center_y": "D/M unmeasured wheel values, NOT purchase specifications",
+    "drive.wheel_bore": "V8 p28 A: 17mm option only",
+    "drive.motor_body_diameter": "V8 p12: 72mm. CONFLICT: Motor-Bracket parameters reference 102mm. Neither reconciled nor treated as measured. This revision uses the V8 72mm envelope; the 102mm alternative is NOT cleared.",
+    "drive.mount_face_y/rear_x/axis_z": "D integration; 88mm shaft-to-bracket-top offset retained",
+    "caster.diameter": "V8 p9 purchase option 110mm TPR",
+    "caster.width/trail/mount_top/pivot_x/side_y": "D/M: geometry proposal pending measurement",
+    "handle": "D/M: large-cart handle/hinge dimensions unavailable; 670mm above deck is a proposal, not extrapolated certainty from the smaller cart picture",
+    "routing": "V8 p22-23 D/B/M: 4xOD bend rule provisional, supplier minimum takes precedence"
+  }
+}
